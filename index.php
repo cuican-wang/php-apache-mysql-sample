@@ -67,7 +67,7 @@ $contacts = $db->all();
                     <td><?php echo $contact['name'] ?></td>
                     <td><?php echo $contact['phone'] ?></td>
                     <td>
-                        <a href="index.php?delete=<?php echo $contact['id'] ?>">删除</a>
+                        <a href="index.php?delete=<?php echo $contact['id'] ?>">Delete</a>
                     </td>
                 </tr>
             <?php
