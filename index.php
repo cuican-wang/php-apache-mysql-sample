@@ -54,9 +54,9 @@ $contacts = $db->all();
             <thead>
             <tr>
                 <th>#</th>
-                <th>姓名</th>
-                <th>电话</th>
-                <th>操作</th>
+                <th>Name</th>
+                <th>Phone Number</th>
+                <th>Operation</th>
             </tr>
             </thead>
             <tbody>
